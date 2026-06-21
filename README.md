@@ -1,6 +1,7 @@
 # 🏠 Krishna PG Noida Website
 
 A modern and responsive website for **Krishna PG Noida**, a boys' paying guest accommodation located in Sector-1, Greater Noida West. The website showcases facilities, contact information, and accommodation details for students and working professionals.
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/51347819-3b6f-476c-bc9b-894500e94a28" />
 
 ## ✨ Features
 
